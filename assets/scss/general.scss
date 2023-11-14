@@ -3,6 +3,7 @@ a {
     color: var(--accent-color);
 
     &:hover {
+        border-radius: var(--tag-border-radius);
         color: var(--accent-color-darker);
     }
 
